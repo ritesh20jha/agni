@@ -5,8 +5,7 @@ info:
   description: >
     Agni is a self-hostable, lightweight, and scalable notification engine.
     It provides REST endpoints for sending notifications across multiple
-    channels (email, SMS, push, webhook), managing in-app notifications,
-    handling WebPush subscriptions, and administering applications.
+    channels (email, SMS, push, webhook),
 servers:
   - url: http://localhost:8080
     description: Main API server (Fiber)
